@@ -1,0 +1,27 @@
+package com.hostellite;
+
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+
+public class AnnouncementsFragment extends Fragment {
+    @Nullable
+    @Override
+    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+        return inflater.inflate(R.layout.fragment_announcements, container, false);
+    }
+
+    @Override
+    public void onDestroyView() {
+        super.onDestroyView();
+        // Show bottom nav bar when leaving this fragment
+        if (getActivity() != null) {
+            View nav = getActivity().findViewById(R.id.bottom_navigation);
+            if (nav != null) nav.setVisibility(View.VISIBLE);
+        }
+    }
+}

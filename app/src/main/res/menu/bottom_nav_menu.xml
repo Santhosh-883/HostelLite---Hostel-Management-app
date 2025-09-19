@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_attendance"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="Attendance" />
+    <item
+        android:id="@+id/navigation_booking"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="Booking" />
+    <item
+        android:id="@+id/navigation_complaints"
+        android:icon="@android:drawable/ic_menu_report_image"
+        android:title="Complaints" />
+    <item
+        android:id="@+id/navigation_leave"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="Leave" />
+    <item
+        android:id="@+id/navigation_announcements"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="Announcements" />
+</menu>

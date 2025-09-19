@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hostellite.app-mergeDebugResources-41:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Santhosh Kumar\\.gradle\\caches\\9.0-milestone-1\\transforms\\54d762bdffb2db311b1ea2235823e1f8\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

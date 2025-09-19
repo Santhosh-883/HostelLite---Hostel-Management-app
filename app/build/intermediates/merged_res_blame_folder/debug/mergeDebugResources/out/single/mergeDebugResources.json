@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\drawable_book_button_bg.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\drawable\\book_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_attendance.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_attendance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_booking.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\menu_drawer_menu.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\menu\\drawer_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\drawable_led_green.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\drawable\\led_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_leave_detail.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_leave_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_students_in_room.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_students_in_room.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_complaints.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_complaints.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_raise_complaint.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_raise_complaint.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_announcements.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_announcements.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_leave.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_id_card.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_id_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_apply_leave.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_apply_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\drawable_round_button_bg.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\drawable\\round_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\drawable_rounded_button_bg.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\drawable\\rounded_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_equipments.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_equipments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\drawable_led_red.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\drawable\\led_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-debug-43:\\layout_fragment_equipment_detail.xml.flat",
+        "source": "C:\\Users\\Santhosh Kumar\\.gradle\\daemon\\9.0-milestone-1\\com.hostellite.app-main-45:\\layout\\fragment_equipment_detail.xml"
+    },
+    {
+        "merged": "com.hostellite.app-debug-43:/menu_drawer_menu.xml.flat",
+        "source": "com.hostellite.app-main-45:/menu/drawer_menu.xml"
+    }
+]

@@ -1,0 +1,46 @@
+com.hostellite.app-recyclerview-1.1.0-0 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\01a34e876b2b43ebd1466c976ec72f5a\transformed\recyclerview-1.1.0\res
+com.hostellite.app-transition-1.4.1-1 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\03937fe8aa5aa7773916cf7a761f6ff9\transformed\transition-1.4.1\res
+com.hostellite.app-jetified-core-ktx-1.9.0-2 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\0f9218a4a21abfbf817cfc5d4a83ec5a\transformed\jetified-core-ktx-1.9.0\res
+com.hostellite.app-navigation-ui-2.7.7-3 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\11548ef2479044b510081d84ff77fb19\transformed\navigation-ui-2.7.7\res
+com.hostellite.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-4 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\14495be8484dbca9289113a3e7f6aab8\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.2\res
+com.hostellite.app-jetified-lifecycle-viewmodel-ktx-2.6.2-5 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\146e96bda9719cf9ba61b547278d5599\transformed\jetified-lifecycle-viewmodel-ktx-2.6.2\res
+com.hostellite.app-jetified-emoji2-1.2.0-6 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\182d0c5ff138e03f410400ed082ca4ec\transformed\jetified-emoji2-1.2.0\res
+com.hostellite.app-jetified-annotation-experimental-1.3.0-7 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\20db16ac22e600aa7abc99560a9f9d99\transformed\jetified-annotation-experimental-1.3.0\res
+com.hostellite.app-cardview-1.0.0-8 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\283724df1904d21c8de8ae1b96f88671\transformed\cardview-1.0.0\res
+com.hostellite.app-core-runtime-2.2.0-9 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\318754a32fe86e7abcabf13cd804b5f4\transformed\core-runtime-2.2.0\res
+com.hostellite.app-jetified-savedstate-1.2.1-10 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\3e3be221fe6c62858fda5581d3336636\transformed\jetified-savedstate-1.2.1\res
+com.hostellite.app-lifecycle-livedata-2.6.2-11 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\43eb627456d9c54503aeb37636c94de7\transformed\lifecycle-livedata-2.6.2\res
+com.hostellite.app-jetified-activity-1.7.2-12 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\441229281f888327f92c01865b49fab0\transformed\jetified-activity-1.7.2\res
+com.hostellite.app-navigation-fragment-2.7.7-13 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\4567e2e19bae5df3de5d54e13725bbff\transformed\navigation-fragment-2.7.7\res
+com.hostellite.app-jetified-fragment-ktx-1.6.2-14 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\48a18ef4428a77071d10b2a18b42be1e\transformed\jetified-fragment-ktx-1.6.2\res
+com.hostellite.app-lifecycle-livedata-core-2.6.2-15 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\4e1cf9cde2255dd1109fc7b70f7956ab\transformed\lifecycle-livedata-core-2.6.2\res
+com.hostellite.app-appcompat-1.6.1-16 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\54d762bdffb2db311b1ea2235823e1f8\transformed\appcompat-1.6.1\res
+com.hostellite.app-navigation-runtime-2.7.7-17 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\63f3da06d2981d379e506b7029b0d03b\transformed\navigation-runtime-2.7.7\res
+com.hostellite.app-core-1.9.0-18 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\65a113c47369c1335cf1da86774fd02a\transformed\core-1.9.0\res
+com.hostellite.app-coordinatorlayout-1.1.0-19 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\760bc769042df57a587fa84e694be050\transformed\coordinatorlayout-1.1.0\res
+com.hostellite.app-jetified-startup-runtime-1.1.1-20 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\78dcb69781f1af8051ada23f35699a2e\transformed\jetified-startup-runtime-1.1.1\res
+com.hostellite.app-drawerlayout-1.1.1-21 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\845a5d0ddb67fa842d793ff3d9de9633\transformed\drawerlayout-1.1.1\res
+com.hostellite.app-jetified-lifecycle-process-2.6.2-22 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\84b022626a56e02f180f1d597902b60b\transformed\jetified-lifecycle-process-2.6.2\res
+com.hostellite.app-jetified-savedstate-ktx-1.2.1-23 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\85f71f020320a17dbd1b82b86cbf20f4\transformed\jetified-savedstate-ktx-1.2.1\res
+com.hostellite.app-jetified-appcompat-resources-1.6.1-24 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\9c7f2978c09ce7c03089e82a464b08d3\transformed\jetified-appcompat-resources-1.6.1\res
+com.hostellite.app-lifecycle-runtime-2.6.2-25 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\9d836f4ddf787831d89f5c640813dd17\transformed\lifecycle-runtime-2.6.2\res
+com.hostellite.app-jetified-profileinstaller-1.3.0-26 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\ab43304f8ac08ae9cba83d9906286798\transformed\jetified-profileinstaller-1.3.0\res
+com.hostellite.app-slidingpanelayout-1.2.0-27 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\af583f2492c9de7a1f653a5050cde515\transformed\slidingpanelayout-1.2.0\res
+com.hostellite.app-jetified-emoji2-views-helper-1.2.0-28 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\b31fdc782399f5b33422911205d27b69\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.hostellite.app-jetified-lifecycle-runtime-ktx-2.6.2-29 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\b55b606583ba6babc82e916f062ad049\transformed\jetified-lifecycle-runtime-ktx-2.6.2\res
+com.hostellite.app-jetified-window-1.0.0-30 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\bb341276218a4700a0a3a9ef17dad8f5\transformed\jetified-window-1.0.0\res
+com.hostellite.app-fragment-1.6.2-31 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\bdaec4c685fc5d29f3dfeaa73394f8f6\transformed\fragment-1.6.2\res
+com.hostellite.app-lifecycle-viewmodel-2.6.2-32 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\ca273d2556dd5ff1e894a644cb3d8d58\transformed\lifecycle-viewmodel-2.6.2\res
+com.hostellite.app-jetified-viewpager2-1.0.0-33 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\d877d8253c7d2e72319e602fd9f82195\transformed\jetified-viewpager2-1.0.0\res
+com.hostellite.app-material-1.9.0-34 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\dcbc4e590ea1a03c5565b2516daf03a5\transformed\material-1.9.0\res
+com.hostellite.app-jetified-lifecycle-livedata-core-ktx-2.6.2-35 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\e2cf1a1fcee05fd2119d96e198ddb8da\transformed\jetified-lifecycle-livedata-core-ktx-2.6.2\res
+com.hostellite.app-jetified-activity-ktx-1.7.2-36 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\e8e524748ca766d87a7e5b1ff8f80ff3\transformed\jetified-activity-ktx-1.7.2\res
+com.hostellite.app-navigation-common-2.7.7-37 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\eaac4a1e486f646c4dced8a36f806842\transformed\navigation-common-2.7.7\res
+com.hostellite.app-constraintlayout-2.1.4-38 C:\Users\Santhosh Kumar\.gradle\caches\9.0-milestone-1\transforms\f4813d42e79212f95f95306d5059b08f\transformed\constraintlayout-2.1.4\res
+com.hostellite.app-pngs-39 D:\Hostel\HostelLite\app\build\generated\res\pngs\debug
+com.hostellite.app-resValues-40 D:\Hostel\HostelLite\app\build\generated\res\resValues\debug
+com.hostellite.app-packageDebugResources-41 D:\Hostel\HostelLite\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hostellite.app-packageDebugResources-42 D:\Hostel\HostelLite\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hostellite.app-debug-43 D:\Hostel\HostelLite\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.hostellite.app-debug-44 D:\Hostel\HostelLite\app\src\debug\res
+com.hostellite.app-main-45 D:\Hostel\HostelLite\app\src\main\res
