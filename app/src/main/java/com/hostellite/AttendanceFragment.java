@@ -20,7 +20,7 @@ import java.util.Locale;
 import java.util.Random;
 
 public class AttendanceFragment extends Fragment {
-    private List<String> attendanceHistory = new ArrayList<>();
+    private List<StudentAttendance> attendanceHistory = new ArrayList<>();
     private ArrayAdapter<String> adapter;
     private boolean isMarked = false;
     private boolean morningMarked = false;
@@ -39,7 +39,10 @@ public class AttendanceFragment extends Fragment {
         ledIndicator = view.findViewById(R.id.ledIndicator);
         statusText = view.findViewById(R.id.textAttendanceStatus);
         warningText = view.findViewById(R.id.textAttendanceWarning);
-        adapter = new ArrayAdapter<>(requireContext(), android.R.layout.simple_list_item_1, attendanceHistory);
+        adapter = new ArrayAdapter<String>(requireContext(), android.R.layout.simple_list_item_1, new ArrayList<>());
+for (StudentAttendance sa : attendanceHistory) {
+    adapter.add(sa.studentName + " | " + sa.date + " | " + (sa.isPresent ? "Present" : "Absent"));
+}
         historyList.setAdapter(adapter);
 
         updateStatus();
@@ -49,8 +52,9 @@ public class AttendanceFragment extends Fragment {
             String session = getCurrentSession();
             if (session == null) return;
             String time = new SimpleDateFormat("hh:mm a", Locale.getDefault()).format(new Date());
-            String entry = "Attendance marked at " + time + " [" + session + "]";
+            StudentAttendance entry = new StudentAttendance("Student Name", time + " [" + session + "]", true);
             attendanceHistory.add(0, entry);
+            adapter.insert(entry.studentName + " | " + entry.date + " | Present", 0);
             adapter.notifyDataSetChanged();
             if (session.equals("Morning")) morningMarked = true;
             if (session.equals("Evening")) eveningMarked = true;
